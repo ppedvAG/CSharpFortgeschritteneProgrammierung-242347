@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitasking", "Multitasking\Multitasking.csproj", "{7D2AC1E0-4C4D-45DA-95DE-FC1B4168AB7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "AsyncAwait\AsyncAwait.csproj", "{83495415-589A-484E-90D8-480DB7CC6BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwaitWPF", "AsyncAwaitWPF\AsyncAwaitWPF.csproj", "{93AE2955-DF7E-4537-892E-C74429E97A38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{7D2AC1E0-4C4D-45DA-95DE-FC1B4168AB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D2AC1E0-4C4D-45DA-95DE-FC1B4168AB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D2AC1E0-4C4D-45DA-95DE-FC1B4168AB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83495415-589A-484E-90D8-480DB7CC6BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83495415-589A-484E-90D8-480DB7CC6BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83495415-589A-484E-90D8-480DB7CC6BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83495415-589A-484E-90D8-480DB7CC6BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93AE2955-DF7E-4537-892E-C74429E97A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93AE2955-DF7E-4537-892E-C74429E97A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93AE2955-DF7E-4537-892E-C74429E97A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93AE2955-DF7E-4537-892E-C74429E97A38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
