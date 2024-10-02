@@ -191,7 +191,7 @@ internal class Program
 		{
 			int v = element.GetProperty("MaxV").GetInt32(); //element["MaxV"].Value<int>()
 			FahrzeugMarke m = (FahrzeugMarke) element.GetProperty("Marke").GetInt32(); //element["Marke"].Value<FahrzeugMarke>()
-
+			
 			Console.WriteLine(v);
 			Console.WriteLine(m);
 			Console.WriteLine("-----------------");
